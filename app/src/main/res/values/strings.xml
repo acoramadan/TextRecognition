@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="galeri">Galeri</string>
+    <string name="camera">Camera</string>
+    <string name="camerax">CameraX</string>
+    <string name="analyze">Analyze</string>
+</resources>
